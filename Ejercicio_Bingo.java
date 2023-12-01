@@ -84,7 +84,7 @@ public class Ejercicio_Bingo {
 
         /*Introducimos un do while que nos permita ir generando números aleatorios desde la posición 1 de nuestro array
         bingo hasta un número indeterminado de veces. Cada número se comparará con todos los elementos que el array bingo
-         vaya teniendo para, en caso de identificar un número repetido repetir el proceso completo. */
+         vaya teniendo para, en caso de identificar un número repetido repetir el proceso completo */
 
         do
         {
